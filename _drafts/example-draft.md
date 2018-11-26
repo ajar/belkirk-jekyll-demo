@@ -5,9 +5,14 @@ date: 2018-01-19 00:00:00 +0000
 sub_heading: ''
 tags: []
 related_posts: []
+
 ---
-## What are draft posts?
+A **WYSIWYG EDITOR?!** Well, _this is just too goo to be true!_
 
-This is an example of a draft post. Draft posts aren't included when publishing your site.
+> Someone's gonna be legit fucking pissed at you, bud...
+>
+> \~ _Aaron Artille_
 
-This is great for authoring work in progress content, or hiding content that shouldn't be available at the current time.
+    if (1 == 1) {
+    	return "shoot";
+    }
